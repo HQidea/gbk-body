@@ -1,0 +1,22 @@
+{
+  "name": "gbk-body",
+  "version": "1.0.0",
+  "description": "parse gbk/gb2312 encoded bodies",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HQidea/gbk-body.git"
+  },
+  "author": "HQidea <hqidea@yahoo.com>",
+  "bugs": {
+    "url": "https://github.com/HQidea/gbk-body/issues"
+  },
+  "homepage": "https://github.com/HQidea/gbk-body",
+  "dependencies": {
+    "content-type": "^1.0.1",
+    "raw-body": "^2.1.4"
+  }
+}
